@@ -11,6 +11,7 @@ Full Stack developer 🚀📖
 
 📫 How to reach me:
 
+ [![Connect on Email](https://img.shields.io/badge/Email-Sibyl%20Perez-bluee)](sibylperezl@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sibyl-perez/) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Lady_Sweet_S) 
 
 

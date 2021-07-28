@@ -5,12 +5,21 @@
 
 <h2>About me</h2>
 
-Website designer to create a true-to-brand appearance for a client. Committed to developing, organizing, managing and executing your projects
+Website designer to create a true-to-brand appearance for a client. Committed to developing, organizing, managing and executing your projects.  I enjoy coding 🤓 reading 📚 and play videogames 🎮
+
+<br/>
 
 <h2>Skills</h2>
 
 - 💻 &nbsp; HTML | CSS | JavaScript | React.js | Redux.js |
 - 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | 
+
+<br/>
+
+<h2>🌎 Languages: </h2>
+
+- Spanish (native)
+- English (upper intermediate)
 
 <br/>
 

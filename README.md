@@ -36,7 +36,23 @@ Website designer to create a true-to-brand appearance for a client. Committed to
 
 <br/>
 
-<h3>📫 How to reach me:</h3>
+<h2> Projects: </h2>
+
+<h3><a href="https://github.com/sibylperez/LoadingGames" target="_blank"> 🎮 LoadingGames</a></h3>
+Fictional website created as an individual project for <a href="https://soyhenry.com/">Henry</a>. The instructions were: create an App to show data from <a href="https://rawg.io/apidocs">RAWG API</a> using React, Redux, Node, and Sequelize.
+<br/>
+
+https://user-images.githubusercontent.com/51963634/131016410-63724841-7d44-4e7c-9145-12d8009c9172.mp4
+
+
+<br/>
+
+<h3><a href='https://github.com/sibylperez/WeatherApp'>🌥️WeatherApp</a></h3>
+An application whose objective is to find the current climate of any country in the world. It's developed with JavaScript using React. The data is consumed from the Api <a href="https://openweathermap.org/">OpenWeatherMap</a>
+
+![WeatherApp](https://user-images.githubusercontent.com/51963634/131019344-e9e9bf64-f718-4aea-8456-9e5986eef8b3.png)
+
+<h2>📫 How to reach me:</h2>
 
  [![Connect on Email](https://img.shields.io/badge/Email-Sibyl%20Perez-bluee)](mailto:sibylperezl@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sibyl-perez/) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Lady_Sweet_S) 

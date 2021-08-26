@@ -11,7 +11,7 @@ Website designer to create a true-to-brand appearance for a client. Committed to
 
 <h2>Skills</h2>
 
-- 💻 &nbsp; HTML5 | CSS3 | Boostrap | JavaScript | React.js | Redux.js |
+- 💻 &nbsp; HTML5 | CSS3 | Bootstrap | JavaScript | React.js | Redux.js |
 - 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -23,7 +23,6 @@ Website designer to create a true-to-brand appearance for a client. Committed to
 <img src="https://img.shields.io/badge/-SQL-F29111?style=flat&logo=sql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 

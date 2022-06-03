@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there! I'm Sibyl</h2>
 
-<h3 align="center"><img src= "https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif" width="25px"> 📖🚀 Full Stack developer 🚀📖 <img src= "https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif" width="25px"></h3>
+<h3 align="center"><img src= "https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif", height="50px"> 📖🚀 Full Stack developer 🚀📖 <img src= "https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif", height="50px"></h3>
 
 
 <h2>About me</h2>
@@ -36,7 +36,7 @@ Website designer to create a true-to-brand appearance for a client. Committed to
 
 <br/>
 
-<h2> Projects: </h2>
+<h2> One of my Projects: </h2>
 
 <h3><a href="https://github.com/sibylperez/LoadingGames" target="_blank"> 🎮 LoadingGames</a></h3>
 Fictional website created as an individual project for <a href="https://soyhenry.com/">Henry</a>. The instructions were: create an App to show data from <a href="https://rawg.io/apidocs">RAWG API</a> using React, Redux, Node, and Sequelize.
@@ -47,10 +47,10 @@ https://user-images.githubusercontent.com/51963634/131016410-63724841-7d44-4e7c-
 
 <br/>
 
-<h3><a href='https://github.com/sibylperez/WeatherApp'>🌥️WeatherApp</a></h3>
-An application whose objective is to find the current climate of any country in the world. It's developed with JavaScript using React. The data is consumed from the Api <a href="https://openweathermap.org/">OpenWeatherMap</a>
+<h3><a href='https://github.com/sibylperez/Sibyl-portfolio'> 💻 Portfolio </a></h3>
+You want visit my portfolio ➳ <a href="https://sibyl-portfolio.netlify.app">Click here</a>
+<img src= "https://user-images.githubusercontent.com/51963634/171961540-6a3e6cf1-699d-48b1-993b-b204ca4b9e40.jpg">
 
-![WeatherApp](https://user-images.githubusercontent.com/51963634/131019344-e9e9bf64-f718-4aea-8456-9e5986eef8b3.png)
 
 <h2>📫 How to reach me:</h2>
 
